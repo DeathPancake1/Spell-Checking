@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1622997788 source:e:\ssp\ssp term 4\data structure 1\spell checking\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
